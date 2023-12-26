@@ -8,6 +8,7 @@ const App = () => {
 
   const updateSavings = (newValue) => {
     setMonthlySavings(monthlySavings + newValue);
+    
   };
 
   return (
